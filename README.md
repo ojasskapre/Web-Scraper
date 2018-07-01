@@ -14,3 +14,5 @@ Install all the required modules using
 Run the 'execute_scraper.py' file from the terminal using 
 > python3 execute_scraper.py
 
+
+
