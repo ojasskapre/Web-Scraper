@@ -9,7 +9,8 @@ Create a python virtual environment
 'python3 -m venv .'
 
 Install all the required modules using
-`pip freeze > requirements.txt`
+
+`pip install -r requirements.txt`
 
 Run the 'execute_scraper.py' file from the terminal using 
 > python3 execute_scraper.py
