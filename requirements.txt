@@ -5,4 +5,4 @@ elasticsearch5==5.5.3
 idna==2.7
 pkg-resources==0.0.0
 requests==2.19.1
-urllib3==1.23
+urllib3==1.24.2
